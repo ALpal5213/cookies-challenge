@@ -1,1 +1,6 @@
-README
+1) Open localhost 8080 in your browser
+
+2) In your URL, navigate to /login?name=YOUR_NAME 
+
+3) Navigate again to /hello
+
